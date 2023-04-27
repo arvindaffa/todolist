@@ -1,4 +1,4 @@
-project todo list ini menggunakan bahasa laravel, dimana terdapat fitur login dan logout, fitur menambah todo dan menghapus todo
+project todo list ini menggunakan bahasa php framework laravel dengan css framework boostrap, dimana terdapat fitur login dan logout, fitur menambah todo dan menghapus todo
 
 1. install composer dengan nama bebas 
 2. install zip repo ini lalu extract
